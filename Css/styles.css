@@ -45,3 +45,10 @@
     font-size: xx-large;
     font-family: Oswald;
 }
+.carousel {
+    width: 500px;
+}
+.jeremyText {
+    margin: 0;
+  position: absolute;
+}
