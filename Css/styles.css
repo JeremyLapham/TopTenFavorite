@@ -67,6 +67,19 @@
 }
 
 
-.padin {
+/* .padin {
     padding-left: 120px;
-  }
+  } */
+
+  
+ .imgsize {
+    width: 35rem;
+    height: 35rem;
+ }
+
+ .realCenter
+ {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-around;
+ }
