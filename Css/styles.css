@@ -4,4 +4,22 @@
 .jeremyflex {
     width: 220px;
     height: 300px;
+    border:1rem solid #FFCDB2;
+}
+.isaiahBJJ {
+    width: 350px;
+    height: 220px;
+    border: 1rem solid #FFCDB2;
+}
+.indexBack {
+    background-color:#E0FBFC;
+}
+.btnColor {
+    color:#E0FBFC;
+}
+.linkColor {
+    color:black;
+}
+.btnColor {
+    color:black;
 }
