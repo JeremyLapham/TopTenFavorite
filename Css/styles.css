@@ -52,6 +52,12 @@
     width: 500px;
     height: 500px;
 }
+.carouselTwo {
+    display:flex;
+    justify-content: center;
+    width: 500px;
+    height: 200px;
+}
 .jeremyText {
     margin: 0;
   position: absolute;
