@@ -46,6 +46,11 @@
     font-family: Oswald;
 }
 .carousel {
+    display:flex;
+    justify-content: center;
     width: 500px;
     height: 500px;
+}
+.aboutUsBack {
+    background-color:#E0FBFC;
 }
