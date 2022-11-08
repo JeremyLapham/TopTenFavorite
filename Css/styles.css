@@ -62,6 +62,9 @@
     margin: 0;
   position: absolute;
 }
+.aboutUsBack {
+    background-color:#E0FBFC;
+}
 
 
 .padin {
