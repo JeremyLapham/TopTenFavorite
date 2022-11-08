@@ -26,3 +26,22 @@
 .cardTextColor{
     background-color: #FFCDB2;
 }
+
+@font-face {
+    src: url(../Font/Roboto-Regular.ttf);
+    font-family: Robo;
+}
+.Robofont{
+    text-align: center;
+    font-size: medium;
+    font-family: Robo;
+}
+@font-face {
+    src: url(../Font/Oswald-VariableFont_wght.ttf);
+    font-family: Oswald;
+}
+.Oswaldfont{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Oswald;
+}
