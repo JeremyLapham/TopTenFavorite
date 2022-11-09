@@ -97,6 +97,13 @@
     background-repeat: repeat;
     padding: 20px;
   }
+  .corners3_0 {
+    border-radius: 25px;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    height: 60px
+  }
   .topPageText {
     text-align: center;
     font-size: 80px;
