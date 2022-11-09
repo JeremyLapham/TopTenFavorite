@@ -97,3 +97,8 @@
     background-repeat: repeat;
     padding: 20px;
   }
+  .mainPageText {
+    text-align: center;
+    font-size: 80px;
+    font-family: Oswald;
+  }
