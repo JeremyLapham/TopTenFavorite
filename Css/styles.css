@@ -46,6 +46,13 @@
     font-size: xx-large;
     font-family: Oswald;
 }
+
+.BigOswaldfont{
+    text-align: center;
+    font: size 50px;
+    font-family: Oswald;
+}
+
 .carousel {
     display:flex;
     justify-content: center;
