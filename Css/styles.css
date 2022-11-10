@@ -138,3 +138,6 @@
 .jeremy {
     width:400px; height:480px; 
 }
+.youtubeLink:focus, .youtubeLink:visited {
+    color: purple;
+}
